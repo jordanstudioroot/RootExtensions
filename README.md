@@ -20,7 +20,7 @@ All functions are extension on unity classes, and can be called as a function on
 # Reccomendations
 
 # TODO
-- [ ] Add namespaces
+- [x] Add namespaces
 - [ ] Tests
 - [ ] Class library Git wiki.
 
