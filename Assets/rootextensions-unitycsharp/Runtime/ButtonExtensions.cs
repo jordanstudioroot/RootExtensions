@@ -1,7 +1,7 @@
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-namespace RootExtenions {
+namespace RootExtensions {
     public static class ButtonExtensions {
     //  Following function taken from:
     //  https://gamedev.stackexchange.com/questions/92146/button-stays-highlighted-after-being-clicked-unity3d-4-6-gui

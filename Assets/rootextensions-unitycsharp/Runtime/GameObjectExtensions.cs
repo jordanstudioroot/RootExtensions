@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace RootExtenions {
+namespace RootExtensions {
     public static class GameObjectExtensions {
         public static void SetParent(
             this GameObject thisObj,
