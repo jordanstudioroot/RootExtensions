@@ -16,6 +16,6 @@ namespace RootExtensions {
             bool worldPositionStays
         ) {
             thisObj.transform.SetParent(otherTransform, worldPositionStays);
-        }    
+        }
     }
 }
