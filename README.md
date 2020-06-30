@@ -3,7 +3,6 @@
 A library of C# extension methods for Unity classes used by Studio Root Games. Can be directly copied into a project, turned into a Unity Package Manager package, or imported into the project as an NPM package using `npm install jordanstudioroot/UnityNPMInit`, in which case it will be copied to `Assets/RootExtensions`.
 
 # Installation
-# Installation
 Either clone the repo to the Assets directory, or initialize an existing unity project with npm and install using `npm install jordanstudioroot/RootExtensions-UnityCSharp`.
 
 # Usage
